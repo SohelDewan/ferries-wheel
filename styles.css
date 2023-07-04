@@ -68,6 +68,7 @@
     border: 2px solid;
     animation: cabin 7s ease-in-out infinite;
     -webkit-animation: cabin 7s ease-in-out infinite;
+    border-radius: 25%;
 }
 .cabin:nth-of-type(1) {
     right: -8.5%;
